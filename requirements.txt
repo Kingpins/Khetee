@@ -1,7 +1,6 @@
 # Automatically generated PIP requirements
 requests
 six
-numpy
 absl
 keras_preprocessing
 matplotlib
@@ -15,3 +14,4 @@ scikit_learn
 seaborn
 streamlit
 tensorflow
+numpy
