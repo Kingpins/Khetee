@@ -14,5 +14,4 @@ protobuf
 scikit_learn
 seaborn
 streamlit
-streamlit-option-menu
 tensorflow
