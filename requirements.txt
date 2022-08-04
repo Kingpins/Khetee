@@ -1,0 +1,18 @@
+# Automatically generated PIP requirements
+requests
+six
+numpy
+absl
+keras_preprocessing
+matplotlib
+mock
+pandas
+pandas_profiling
+Pillow
+plotly
+protobuf
+scikit_learn
+seaborn
+streamlit
+streamlit-option-menu
+tensorflow
