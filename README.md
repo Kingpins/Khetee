@@ -29,8 +29,8 @@
 - Run `python manage.py runserver` the project will be up and running in your localhost. 
 
 ### Project Screenshots:
-<img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide1.JPG" width="400px"/> <img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide2.JPG" width="400px"/> <img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide7.JPG" width="400px"/> 
-<img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide10.JPG" width="400px"/> <img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide11.JPG" width="400px"/> <img src="https://github.com/Kingpins/DrillDown/blob/master/media/Slide12.JPG" width="400px"/> 
+<img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide1.JPG" width="400px"/> <img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide2.JPG" width="400px"/> <img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide3.JPG" width="400px"/> 
+<img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide4.JPG" width="400px"/> <img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide5.JPG" width="400px"/> <img src="https://github.com/Kingpins/Khetee/blob/main/screenshot/Slide6.JPG" width="400px"/> 
 
 ### Demo:
  [![Khetee](https://img.youtube.com/vi/aiKIa_GyQ_M/0.jpg)](https://youtu.be/aiKIa_GyQ_M)
